@@ -12,4 +12,4 @@ Cukup buka file `index.html` di browser.
 
 ---
 
-> Dibuat untuk latihan & portofolio pribadi.
+> Dibuat pada Project UAS 2025
